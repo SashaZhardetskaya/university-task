@@ -1,3 +1,11 @@
 ol li {
     list-style-type: upper-roman;
 }
+
+textarea {
+    display: block;
+}
+
+label {
+    display: block;
+}
