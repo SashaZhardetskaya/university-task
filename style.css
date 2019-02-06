@@ -2,6 +2,10 @@ ol li {
     list-style-type: upper-roman;
 }
 
+table {
+    max-width: 450px;
+}
+
 textarea {
     display: block;
     margin-bottom: 20px;
